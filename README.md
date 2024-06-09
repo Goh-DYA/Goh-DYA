@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub repository 👨🏻‍💻
 
-- I am Adison Goh, an aspiring data scientist & NUS MSc in Business Analytics student at the National University of Singapore (NUS).
+- I am Adison Goh, an aspiring data scientist / AI-ML practitioner & NUS MSc in Business Analytics student at the National University of Singapore (NUS).
 - With a deep curiosity for integrating cutting-edge technology and real-world solutions, I've embarked on various ML/AI projects throughout my learning journey, which are outlined below.
 - Projects primarily involving Python notebooks were also uploaded onto my [Kaggle profile](https://www.kaggle.com/adisongoh/code).
 
@@ -46,7 +46,7 @@
 ## Generative AI
 | Title | Date | Link | Models |
 | --- | --- | --- | --- |
-| GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | 2024-04 | [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | LLMs: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API) |
+| GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | 2024-04 | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
 
 
 <a name="bigdata"></a>
