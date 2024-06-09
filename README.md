@@ -68,5 +68,5 @@
 ## Healthcare Web Database
 | Title | Date | Link | Tech |
 | --- | --- | --- | --- |
-| Newsgroup Document Classification with DistilBERT | Since 2020 | [Website](https://dhd.digihealthdojo.com/probioticdb/index.php) | MySQL, PHP, HTML, CSS, JavaScript |
+| Probiotics Reference Guide - Clinical Evidence for Probiotics | Since 2020 | [Website](https://dhd.digihealthdojo.com/probioticdb/index.php) | MySQL, PHP, HTML, CSS, JavaScript |
 
