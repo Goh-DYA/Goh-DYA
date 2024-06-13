@@ -12,7 +12,8 @@
 4. [Generative AI](#genai)
 5. [Big Data Analytics](#bigdata)
 6. [Data Warehousing](#datawarehouse)
-7. [Healthcare Web Database](#webdb)
+7. [Causal Analysis](#causal)
+8. [Healthcare Web Database](#webdb)
 
 
 <a name="computer-vision"></a>
@@ -62,6 +63,13 @@
 | Title | Date | Link | Tech |
 | --- | --- | --- | --- |
 | StarAIS: Data Warehousing & Analysis of Maritime AIS Data | 2023-11 | [Github](https://github.com/Goh-DYA/MSBA-DataWarehousing-ShipAIS) | PostgreSQL, Python, Power BI, Flask, HTML, CSS |
+
+
+<a name="causal"></a>
+## Causal Analysis
+| Title | Date | Link | Tech |
+| --- | --- | --- | --- |
+| Impact of Prime Location Housing (PLH) Policy on HDB Resale Prices | 2024-04 | [Google Slides](https://drive.google.com/file/d/1oq_-tNvwiSPCL86UTZ_QC0-axR0HONR1/view?usp=sharing) | Difference-in-differences (DiD), R |
 
 
 <a name="webdb"></a>
