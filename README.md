@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub repository 👨🏻‍💻
 
-- I am Adison Goh, an aspiring data scientist / AI-ML practitioner & MSc in Business Analytics student at the National University of Singapore (NUS).
+- I am Adison Goh, a data scientist / AI-ML practitioner at NHG (a public healthcare cluster in Singapore) & MSc in Business Analytics graduate from the National University of Singapore (NUS).
 - With a deep curiosity for integrating cutting-edge technology and real-world solutions, I've embarked on various ML/AI projects throughout my learning journey, which are outlined below.
 - Projects primarily involving Python notebooks were also uploaded onto my [Kaggle profile](https://www.kaggle.com/adisongoh/code).
 
@@ -12,7 +12,7 @@
 4. [Generative AI](#genai)
 5. [Big Data Analytics](#bigdata)
 6. [Data Warehousing](#datawarehouse)
-7. [Causal Analysis](#causal)
+7. [Quantitative Analysis](#causal)
 8. [Healthcare Web Database](#webdb)
 
 
@@ -66,10 +66,11 @@
 
 
 <a name="causal"></a>
-## Causal Analysis
+## Quantitative Analysis
 | Title | Link | Tech |
 | --- | --- | --- |
 | Impact of Prime Location Housing (PLH) Policy on HDB Resale Prices | [Google Slides](https://drive.google.com/file/d/1oq_-tNvwiSPCL86UTZ_QC0-axR0HONR1/view?usp=sharing) | Difference-in-differences (DiD), R |
+| Analysis of Proximity to Expressways & Influence on HDB Resale Prices | [Github](https://github.com/Goh-DYA/HDB-resale-highway) | Linear Regression, Python |
 
 
 <a name="webdb"></a>
