@@ -49,6 +49,7 @@
 | --- | --- | --- |
 | GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
 | RALPh - Retrieval Augmented LLM Pharmacist (2nd Runner up in the PSS SGHackitRx Hackathon 2024) | [YouTube Demo](https://www.youtube.com/watch?v=Tttr37NO_uE) | *LLMs*: GPT-4o (OpenAI API)<br>Frameworks: LangChain, Gradio, Python, SQL |
+| Automating PubMed Literature Reviews with LLMs | [Kaggle](https://www.kaggle.com/code/adisongoh/gemini-revolutionizing-lit-reviews-insights) | *LLMs*: Gemini 1.5 Flash (Gemini API) |
 
 
 <a name="bigdata"></a>
