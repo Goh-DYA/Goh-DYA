@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub repository 👨🏻‍💻
 
-- I am Adison Goh, a data scientist / AI-ML practitioner at NHG (a public healthcare cluster in Singapore) & MSc in Business Analytics graduate from the National University of Singapore (NUS).
+- I am Adison Goh, a data scientist / AI-ML practitioner at the National Healthcare Group (NHG), Singapore & a MSc in Business Analytics graduate from the National University of Singapore (NUS).
 - With a deep curiosity for integrating cutting-edge technology and real-world solutions, I've embarked on various ML/AI projects throughout my learning journey, which are outlined below.
 - Projects primarily involving Python notebooks were also uploaded onto my [Kaggle profile](https://www.kaggle.com/adisongoh/code).
 
