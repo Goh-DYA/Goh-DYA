@@ -6,14 +6,23 @@
 
 
 ## Project Overview
-1. [Computer Vision](#computer-vision)
-2. [Natural Language Processing (NLP)](#nlp)
-3. [Tabular Data (Classical ML & Explainable AI)](#classicml)
-4. [Generative AI](#genai)
+1. [Generative AI](#genai)
+2. [Computer Vision](#computer-vision)
+3. [Natural Language Processing (NLP)](#nlp)
+4. [Tabular Data (Classical ML & Explainable AI)](#classicml)
 5. [Big Data Analytics](#bigdata)
 6. [Data Warehousing](#datawarehouse)
 7. [Quantitative Analysis](#causal)
 8. [Healthcare Web Database](#webdb)
+
+
+<a name="genai"></a>
+## Generative AI
+| Title | Link | Models |
+| --- | --- | --- |
+| GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
+| RALPh - Retrieval Augmented LLM Pharmacist (2nd Runner up, PSS SGHackitRx Hackathon 2024; Finalist, HealthHack 2025) | [YouTube Demo](https://youtu.be/DRovL0SJ8rg?si=Joe37nItaPo0rVbS&t=110) | *LLMs*: GPT-4o (OpenAI API)<br>Stack: LangChain, Python, InterSystems Vector DB, Gradio, ElevenLabs |
+| Automating PubMed Literature Reviews with LLMs | [Kaggle](https://www.kaggle.com/code/adisongoh/gemini-revolutionizing-lit-reviews-insights) | *LLMs*: Gemini 1.5 Flash (Gemini API) |
 
 
 <a name="computer-vision"></a>
@@ -41,15 +50,6 @@
 | Classification of Patients with Diabetes based on CDC Diabetes Health Indicators | [Kaggle](https://www.kaggle.com/code/adisongoh/binary-classification-of-patients-with-diabetes) | Logistic Regression, Support Vector Machines, Random Forest, XGBoost, Voting Classifier, Feedforward Neural Network |
 | Predicting Sepsis Survivability in Hospitalised Patients | [Kaggle](https://www.kaggle.com/code/adisongoh/sepsis-survival-with-ff-neural-nets-kerastuner) | Feedforward Neural Networks |
 | Predicting the Success of Spotify Songs | [Kaggle](https://www.kaggle.com/code/adisongoh/predicting-the-success-of-spotify-songs) | Logistic Regression, Naïve Bayes, k-NN, Decision Trees, SVM, Random Forest, AdaBoost, GradientBoost, Stacking |
-
-
-<a name="genai"></a>
-## Generative AI
-| Title | Link | Models |
-| --- | --- | --- |
-| GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
-| RALPh - Retrieval Augmented LLM Pharmacist (2nd Runner up in the PSS SGHackitRx Hackathon 2024) | [YouTube Demo](https://www.youtube.com/watch?v=Tttr37NO_uE) | *LLMs*: GPT-4o (OpenAI API)<br>Frameworks: LangChain, Gradio, Python, SQL |
-| Automating PubMed Literature Reviews with LLMs | [Kaggle](https://www.kaggle.com/code/adisongoh/gemini-revolutionizing-lit-reviews-insights) | *LLMs*: Gemini 1.5 Flash (Gemini API) |
 
 
 <a name="bigdata"></a>
