@@ -23,6 +23,7 @@
 | GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
 | RALPh - Retrieval Augmented LLM Pharmacist (2nd Runner up, PSS SGHackitRx Hackathon 2024; Finalist, HealthHack 2025) | [YouTube Demo](https://youtu.be/DRovL0SJ8rg?si=Joe37nItaPo0rVbS&t=110) | *LLMs*: GPT-4o (OpenAI API)<br>Stack: LangChain, Python, InterSystems Vector DB, Gradio, ElevenLabs |
 | Automating PubMed Literature Reviews with LLMs | [Kaggle](https://www.kaggle.com/code/adisongoh/gemini-revolutionizing-lit-reviews-insights) | *LLMs*: Gemini 1.5 Flash (Gemini API) |
+| GAVYN (Gentle Assistance Virtually and Youthful Nurturing) - LLM Social Companion | [PartyRock Demo App](https://partyrock.aws/u/cyberpharmacyfuturist/kWfzrD9Qc/GAVYN-Your-Social-Companion-Buddy-(v0.2)/snapshot/R6mzOHSH1) | *LLM*: Stable Image Core (Image generation), Claude Sonnet 3.5 (Text generation) |
 
 
 <a name="computer-vision"></a>
