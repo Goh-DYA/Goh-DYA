@@ -20,11 +20,11 @@
 ## Generative AI
 | Title | Link | Models |
 | --- | --- | --- |
-| GPTTransit Chatbot for Public Transport (1st Runner up in the NUS-NCS Innovation Challenge 2024) | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
-| RALPh - Retrieval Augmented LLM Pharmacist (2nd Runner up, PSS SGHackitRx Hackathon 2024; Finalist, HealthHack 2025) | [Github](https://github.com/Goh-DYA/R-A-L-Ph); [YouTube Demo](https://youtu.be/DRovL0SJ8rg?si=Joe37nItaPo0rVbS&t=110) | *LLM*: GPT-4o (OpenAI API)<br>Stack: LangChain, Python, InterSystems Vector DB, Gradio, ElevenLabs |
+| GPTTransit Chatbot for Public Transport<br>*(1st Runner up in the NUS-NCS Innovation Challenge 2024)* | [Github](https://github.com/Goh-DYA/MSBA-GPTTransit); [YouTube Demo](https://youtu.be/QmAEUj__Wk0?si=kXeMk0T_NFih1_yP) | *LLMs*: GPT-4 (OpenAI API), Mixtral-8x7B (HuggingFace API)<br>Frameworks: LangChain, Gradio, Python |
+| RALPh - Retrieval Augmented LLM Pharmacist<br>*(2nd Runner up, PSS SGHackitRx Hackathon 2024; Finalist, HealthHack 2025)* | [Github](https://github.com/Goh-DYA/R-A-L-Ph); [YouTube Demo](https://youtu.be/DRovL0SJ8rg?si=Joe37nItaPo0rVbS&t=110) | *LLM*: GPT-4o (OpenAI API)<br>Stack: LangChain, Python, InterSystems Vector DB, Gradio, ElevenLabs |
 | Automating PubMed Literature Reviews with LLMs | [Kaggle](https://www.kaggle.com/code/adisongoh/gemini-revolutionizing-lit-reviews-insights) | *LLM*: Gemini 1.5 Flash (Gemini API) |
-| GAVYN (Gentle Assistance Virtually and Youthful Nurturing) - LLM Social Companion | [PartyRock Demo App](https://partyrock.aws/u/cyberpharmacyfuturist/kWfzrD9Qc/GAVYN-Your-Social-Companion-Buddy-(v0.2)/snapshot/R6mzOHSH1) | *Models*: Stable Image Core (Image generation), Claude Sonnet 3.5 (Text generation) |
-| Scaling Responsible Generative AI: Automating Red Teaming of LLM Applications (Presented at IEEE Conference on AI 2025) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11050586) | *LLM*: GPT-4o<br>Framework: PyRIT |
+| GAVYN (Gentle Assistance Virtually and Youthful Nurturing) - LLM Social Companion<br>*(Finalist, CHI Rock and Heal Challenge 2025)* | [PartyRock Demo App](https://partyrock.aws/u/cyberpharmacyfuturist/kWfzrD9Qc/GAVYN-Your-Social-Companion-Buddy-(v0.2)/snapshot/R6mzOHSH1) | *Models*: Stable Image Core (Image generation), Claude Sonnet 3.5 (Text generation) |
+| Scaling Responsible Generative AI: Automating Red Teaming of LLM Applications<br>*(Presented at IEEE Conference on AI (CAI) 2025)* | [IEEE Xplore](https://ieeexplore.ieee.org/document/11050586) | *LLM*: GPT-4o<br>Framework: PyRIT |
 
 <a name="computer-vision"></a>
 ## Computer Vision
