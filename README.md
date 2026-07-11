@@ -25,6 +25,7 @@
 | GAVYN (Gentle Assistance Virtually and Youthful Nurturing) - LLM Social Companion<br>*(Top-5 Finalist, CHI Rock and Heal Challenge 2025; Top-5 Finalist, Singapore Allied Health Conference Shark Tank 2025)* | [PartyRock Demo App](https://partyrock.aws/u/cyberpharmacyfuturist/kWfzrD9Qc/GAVYN-Your-Social-Companion-Buddy-(v0.2)/snapshot/R6mzOHSH1) | *Models*: Stable Image Core (Image generation), Claude Sonnet 3.5 (Text generation) |
 | ARWEN (Architect of Reflective Wisdom and Empathetic Narratives) - LLM Digital Human bridging lived experience and clinical insight<br>*(Top-5 Finalist, SGHackitRx 2025)* | [YouTube Demo](https://youtu.be/fAKeaVOONFg) | *Models*: Amazon Titan Image Generator (Image generation), Claude Sonnet 4, Amazon Nova Pro (Text generation)</br>*Digital Human Platform*: Convai</br>*Frontend*: React</br>*Backend*: Flask, Python |
 | Scaling Responsible Generative AI: Automating Red Teaming of LLM Applications<br>*(Presented at IEEE Conference on AI (CAI) 2025)* | [IEEE Xplore](https://ieeexplore.ieee.org/document/11050586) | *LLM*: GPT-4o<br>Framework: PyRIT |
+| CogniScreen - AI voice app administering multimodal cognitive screening questionnaires | [Github](https://github.com/Goh-DYA/codex-heal-cogniscreen) | GPT Realtime API 2.1 Mini |
 
 <a name="computer-vision"></a>
 ## Computer Vision
